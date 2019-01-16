@@ -1,5 +1,10 @@
+====================
 django-template-uuid
 ====================
+
+.. image:: https://travis-ci.org/mpasternak/django-template-uuid.svg
+   :target: https://travis-ci.org/mpasternak/django-template-uuid
+
 
 Assign an unique ID to every Django page rendered.
 
